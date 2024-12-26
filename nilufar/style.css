@@ -1,0 +1,22 @@
+h1{
+    color: rgb(31, 108, 82);
+    text-align: center;
+}
+h2{
+    color: rgb(143, 143, 217);
+}
+h3{
+    text-align: left;
+}
+.style2{
+    background-image: url("");
+    background-color: cadetblue;
+    margin-left: 1cm; 
+    margin-right: 1cm;
+    padding-left: 1cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
